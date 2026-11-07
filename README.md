@@ -12,6 +12,6 @@ In recent years, there are three broad areas of physics that I have taken an int
 	- Mathematics Background:	Differential Geometry, Algebraic Topology, Lie Groups and Algebra, Representation of Finite and Lie Groups, Rings and Categories of Modules.
 - Theoretical aspects of Statistical Mechanics. 
 	Aspects of equilibrium and non-equilibrium statistical mechanics, from a field-theoretic perspective.
- - Physics Background: Thermodynamics, Statistical Mechanics, Functional Methods in Polymer Physics, Physics of Complex Systems. 
- - Mathematics Background: Probability, Dynamical Systems, Ergodic Theory, Stochastic Processes.
+	 - Physics Background: Thermodynamics, Statistical Mechanics, Functional Methods in Polymer Physics, Physics of Complex Systems. 
+ 	- Mathematics Background: Probability, Dynamical Systems, Ergodic Theory, Stochastic Processes.
 					
