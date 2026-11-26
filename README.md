@@ -3,7 +3,7 @@ In this repository I report the courses I followed during my Bachelor and Master
 
 In recent years, there are three broad areas of physics that I have taken an interest in exploring further, and which I would like to continue pursuing. Below I report a short list of topics I studied via courses and projects.
 - Theoretical Physics of Fundamental Interactions. 
-  Phenomenology and modern theoretical tools for studying the four fundamental interactions of physics. 
+  Phenomenology and modern theoretical tools for studying the four fundamental interactions of physics, motivated by Quantum Gravity and Holography directions. 
   - Physics Background: Theoretical Physics of Fundamental Interactions, Quantum Field Theory, General Relativity, Standard Model,  Effective Field Theory; basics of  Quantum Gravity,  String Theory, Cosmology of the Early Universe.
   - Mathematics Background: Real, Complex and Fourier analysis, Path integral methods.
 - Geometric, Algebraic, and Topological methods in the study of Quantum Field Theory. 
